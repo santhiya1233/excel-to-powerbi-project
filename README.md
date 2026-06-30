@@ -31,7 +31,7 @@ This project transforms raw Excel (Superstore) data into a fully interactive Pow
 ## 📂 Project Files
 
 - Superstore_Data.xlsx (Project.xlsx)– Raw dataset
-- Sales_and_Profit_Performance_Analysis.pbix – Power BI report file
+- Sales_and_Profit_Performance_Analysis.pbix(sales1.pbix)– Power BI report file
 
 ## 🚀 How to Use
 
