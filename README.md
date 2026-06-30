@@ -50,6 +50,8 @@ This project transforms raw Excel (Superstore) data into a fully interactive Pow
 ## 👤 Author
 
 Created as part of a data analytics portfolio project demonstrating Excel-to-Power BI workflow.
+## Certificate
+NT_VIPC124 - NoviTech R&D Private Limited
 
 ---
 ⭐ If you find this project useful, feel free to star the repository!
